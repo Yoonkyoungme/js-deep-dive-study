@@ -2,7 +2,7 @@
 
 모던 자바스크립트 Deep Dive 스터디
 
-<img class="gImg" src="https://image.yes24.com/goods/92742567/XL" alt="모던 자바스크립트 Deep Dive" border="0" width="500px">
+<img class="gImg" src="https://image.yes24.com/goods/92742567/XL" alt="모던 자바스크립트 Deep Dive" border="0" width="500px" style="object-fit: cover;">
 
 <br>
 
@@ -12,7 +12,7 @@
 | ---- | ------- | --------- | ----------------------------------------- | ---- |
 | 01   | 09 ~ 12 | 08/24(목) | [김윤경](https://github.com/Yoonkyoungme) |      |
 | 02   | 13 ~ 15 | 08/31(목) | [김예은](https://github.com/kye1115z)     |      |
-| 03   | 16 ~ 19 | 09/07(목) | [김예은](https://github.com/kye1115z)     |      |
+| 03   | 16 ~ 19 | 09/07(목) | [김혁수](https://github.com/Kim-hyeoksu)  |      |
 | 04   | 20 ~ 23 | 09/14(목) | [원동현](https://github.com/Hellol77)     |      |
 | 05   | 24 ~ 26 |           |                                           |      |
 | 06   | 27 ~ 30 |           |                                           |      |
@@ -48,6 +48,6 @@
 
 ## 👤 스터디 구성원
 
-|                                                     [김윤경](https://github.com/Yoonkyoungme)                                                     |                                                       [김예은](https://github.com/kye1115z)                                                       |                                                     [김혁수](https://github.com/Kim-hyeoksu)                                                      |                                                       [원동현](https://github.com/Hellol77)                                                       |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/6f399366-f5a3-41e4-9de0-680089678600" width="150px" height="150px"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/e772bd54-98ea-4455-9b5c-8fc879dd22cb" width="150px" height="150px"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/8f5a483e-05f9-438c-8b6f-bb8660579682" width="150px" height="150px"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/26861eed-0cf3-48c7-8005-5759d38bfc62" width="150px" height="150px"> |
+|                                                                   [김윤경](https://github.com/Yoonkyoungme)                                                                    |                                                                     [김예은](https://github.com/kye1115z)                                                                      |                                                                    [김혁수](https://github.com/Kim-hyeoksu)                                                                    |                                                                     [원동현](https://github.com/Hellol77)                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/6f399366-f5a3-41e4-9de0-680089678600" width="150px" height="150px" style="object-fit: contain;"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/e772bd54-98ea-4455-9b5c-8fc879dd22cb" width="150px" height="150px" style="object-fit: contain;"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/8f5a483e-05f9-438c-8b6f-bb8660579682" width="150px" height="cover" style="object-fit: contain;"> | <img src="https://github.com/Yoonkyoungme/js-deep-dive-study/assets/100656920/26861eed-0cf3-48c7-8005-5759d38bfc62" width="150px" height="150px" style="object-fit: contain;"> |
